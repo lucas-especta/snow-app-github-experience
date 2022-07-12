@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="My Table" max_length="40" name="u_my_table" type="collection">
+        <element label="My Field 1" max_length="40" name="u_my_field_1" type="string"/>
+        <element label="My Field 2" max_length="40" name="u_my_field_2" type="integer"/>
+    </element>
+</database>
