@@ -5,25 +5,25 @@
         <description/>
         <device_type>browser</device_type>
         <hint/>
-        <name>My Table 2</name>
+        <name>My Table 3</name>
         <order>100</order>
-        <roles>u_my_table_2_user</roles>
+        <roles>u_my_table_3_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>lucas.andrade@woven-planet.global</sys_created_by>
-        <sys_created_on>2022-07-12 23:30:39</sys_created_on>
+        <sys_created_on>2022-07-12 23:31:27</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>5f18fd5f47201110034f690cd36d4381</sys_id>
+        <sys_id>be4835572fe0111034cdd6ab2799b60b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>My Table 2</sys_name>
+        <sys_name>My Table 3</sys_name>
         <sys_overrides/>
         <sys_package display_value="snow-app-github-experience" source="7ba5751b47201110034f690cd36d43be">7ba5751b47201110034f690cd36d43be</sys_package>
         <sys_policy/>
         <sys_scope display_value="snow-app-github-experience">7ba5751b47201110034f690cd36d43be</sys_scope>
-        <sys_update_name>sys_app_application_5f18fd5f47201110034f690cd36d4381</sys_update_name>
+        <sys_update_name>sys_app_application_be4835572fe0111034cdd6ab2799b60b</sys_update_name>
         <sys_updated_by>lucas.andrade@woven-planet.global</sys_updated_by>
-        <sys_updated_on>2022-07-12 23:30:39</sys_updated_on>
-        <title>My Table 2</title>
+        <sys_updated_on>2022-07-12 23:31:27</sys_updated_on>
+        <title>My Table 3</title>
         <view_name/>
     </sys_app_application>
 </record_update>

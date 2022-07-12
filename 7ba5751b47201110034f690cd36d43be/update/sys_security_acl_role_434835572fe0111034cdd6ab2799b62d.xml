@@ -2,18 +2,18 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>lucas.andrade@woven-planet.global</sys_created_by>
-        <sys_created_on>2022-07-12 23:30:40</sys_created_on>
-        <sys_id>d318fd5f47201110034f690cd36d4399</sys_id>
+        <sys_created_on>2022-07-12 23:31:28</sys_created_on>
+        <sys_id>434835572fe0111034cdd6ab2799b62d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>u_my_table_2.u_my_table_2_user</sys_name>
+        <sys_name>u_my_table_3.u_my_table_3_user</sys_name>
         <sys_package display_value="snow-app-github-experience" source="7ba5751b47201110034f690cd36d43be">7ba5751b47201110034f690cd36d43be</sys_package>
         <sys_policy/>
         <sys_scope display_value="snow-app-github-experience">7ba5751b47201110034f690cd36d43be</sys_scope>
-        <sys_security_acl display_value="u_my_table_2">1b18fd5f47201110034f690cd36d4395</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_d318fd5f47201110034f690cd36d4399</sys_update_name>
+        <sys_security_acl display_value="u_my_table_3">834835572fe0111034cdd6ab2799b62a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_434835572fe0111034cdd6ab2799b62d</sys_update_name>
         <sys_updated_by>lucas.andrade@woven-planet.global</sys_updated_by>
-        <sys_updated_on>2022-07-12 23:30:40</sys_updated_on>
-        <sys_user_role display_value="u_my_table_2_user" name="u_my_table_2_user">1718391f47201110034f690cd36d43bc</sys_user_role>
+        <sys_updated_on>2022-07-12 23:31:28</sys_updated_on>
+        <sys_user_role display_value="u_my_table_3_user" name="u_my_table_3_user">f248f1572fe0111034cdd6ab2799b66d</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>
